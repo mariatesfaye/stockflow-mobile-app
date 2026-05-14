@@ -25,27 +25,26 @@ Styling is **NativeWind** (`className` + Tailwind-style tokens). Faster than han
 
 ## Trade-offs
 
-Everything stays **in memory** — no backend, no storage. Fine for a few-hour scope; you’d add persistence or an API next.
-
+Everything stays **in memory** — no backend, no storage. 
 I skipped heavier architecture (global stores, navigation libraries) so the flow is easy to follow: open **`App.tsx`** and you see the whole story. Downside is a bit of prop drilling into the modals, but it’s only two screens deep.
 
 ## Screenshots
 
 ### User Registration
-![User Registration](./assets/screenshots/user-registration.png)
+![User Registration](./assets/user-registration.png)
 
 ### Inventory
-![Inventory](./assets/screenshots/inventory.png)
-![Inventory](./assets/screenshots/inventory2.png)
+![Inventory](./assets/inventory.png)
+![Inventory](./assets/inventory2.png)
 
 ### Add Product
-![Add Product](./assets/screenshots/add-product.png)
+![Add Product](./assets/add-product.png)
 
 ### Stock Adjustment
-![Stock Adjustment](./assets/screenshots/stock-adjustment.png)
+![Stock Adjustment](./assets/stock-adjustment.png)
 
 ### Transaction History
-![Transaction History](./assets/screenshots/transaction-history.png)
+![Transaction History](./assets/transaction-history.png)
 
 ### Profile
-![Profile](./assets/screenshots/profile.png)
+![Profile](./assets/profile.png)
