@@ -31,20 +31,22 @@ I skipped heavier architecture (global stores, navigation libraries) so the flow
 ## Screenshots
 
 ### User Registration
-![User Registration](./assets/user-registration.png)
+<img src="./assets/user-registration.jpg" width="250"/>
 
 ### Inventory
-![Inventory](./assets/inventory.png)
-![Inventory](./assets/inventory2.png)
+<p float="left">
+  <img src="./assets/inventory.jpg" width="250"/>
+  <img src="./assets/inventory2.jpg" width="250"/>
+</p>
 
 ### Add Product
-![Add Product](./assets/add-product.png)
+<img src="./assets/add-product.jpg" width="250"/>
 
 ### Stock Adjustment
-![Stock Adjustment](./assets/stock-adjustment.png)
+<img src="./assets/stock-adjustment.jpg" width="250"/>
 
 ### Transaction History
-![Transaction History](./assets/transaction-history.png)
+<img src="./assets/transaction-history.jpg" width="250"/>
 
 ### Profile
-![Profile](./assets/profile.png)
+<img src="./assets/profile.jpg" width="250"/>
