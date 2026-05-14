@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "StockFlow",
+    "slug": "stockflow-mobile-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.stockflow.app"
+    },
+    "android": {
+      "package": "com.stockflow.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#0F172A"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "splash": {
+      "backgroundColor": "#0F172A",
+      "resizeMode": "contain"
+    }
+  }
+}
